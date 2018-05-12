@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '35285'
     url: http://www.gutenberg.org/2009/agents/35285
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34523#Fishes-of-Chautauqua-Cowley-and-Elk-Counties-Kansas
 gutenberg_bookshelf:
 - Animals-Wild
 - Animal
